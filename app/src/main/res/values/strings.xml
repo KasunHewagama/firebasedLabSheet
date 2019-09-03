@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IT18165180FIREBASE</string>
+    <string name="enterId">Enter Your ID</string>
+    <string name="enterName">Enter Your Name</string>
+    <string name="enterAddress">Enter Your Address</string>
+    <string name="enterContactNo">Enter Your Contact No</string>
+    <string name="save">SAVE</string>
+    <string name="show">SHOW</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+</resources>
